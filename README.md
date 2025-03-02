@@ -28,6 +28,14 @@ The Azure AZ-900 certification is designed for individuals looking to demonstrat
 ## Conclusion
 Explore the hands-on labs to apply your knowledge and gain practical experience with Azure services. 🌟
 
+## Reference Materials 📚
+- [Official Microsoft AZ-900 Certification Page](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- [Microsoft Learn: AZ-900 Learning Path](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
+- [Practice Tests and Study Guides](https://www.examcompass.com/azure-az-900-practice-exams)
+- [Udemy: AZ-900 Azure Fundamentals Exam Prep](https://www.udemy.com/course/az-900-azure-fundamentals/)
+- [Pluralsight: Azure Fundamentals](https://www.pluralsight.com/courses/azure-fundamentals)
+- [A Cloud Guru: Azure Fundamentals](https://acloudguru.com/course/azure-fundamentals)
+
 ## Contribution 🤝
 We welcome contributions! If you would like to contribute to this project, please fork the repository and submit a pull request.
 
